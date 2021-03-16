@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![lalifeier's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalifeier)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalifeier)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalifeier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
